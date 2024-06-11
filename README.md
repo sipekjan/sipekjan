@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Jan Šípek</h1>
-<h3 align="center">I am a poor student od SPSMB.</h3>
+
 
 - 📫 How to reach me **jan.sipek@student.spsmb.cz / jansipek12@gmail.com**
 
